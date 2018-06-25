@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans,
+
+Prathamesh here, I am gonna be starting my coding journey!!
